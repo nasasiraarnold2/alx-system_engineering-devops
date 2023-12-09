@@ -1,1 +1,1 @@
-0x0E. Web stack debugging #1
+Solutions to the 0x0E-web_stack_debugging_1 task
